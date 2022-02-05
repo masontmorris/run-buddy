@@ -99,7 +99,7 @@ section {
 }
 
 .hero-form label {
-    max-resolution: 0 5px;
+    margin: 0 5px;
 }
 
 .hero-form button {
